@@ -1,0 +1,22 @@
+class Apartment{ 
+	  int apartmentId;
+	   String apartmentName;
+	      string location;
+		  int nooffloors;
+		  int noofTwoBhkFloors;
+	       int noofThreeBhkFloors;
+	  public static void provideAcomadation(){
+System.outt.println("providing large space for accomadation");		
+
+	  }
+	  }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

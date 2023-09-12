@@ -1,0 +1,13 @@
+class Electronicdevice{
+
+public void data(providing information){
+
+System.out.println("transmit information");
+System.out.println("information processing and system control);
+
+
+
+}
+}
+
+}

@@ -1,0 +1,2 @@
+class Rose sextends Flower{
+}

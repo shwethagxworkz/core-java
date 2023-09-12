@@ -1,0 +1,11 @@
+ class ElectronicDeviceExcecutor{
+
+
+public static void main(String Computer[]){
+
+Computer =new Computer
+ Computer.information("data transfer","information processing);
+}
+
+ }
+ }
