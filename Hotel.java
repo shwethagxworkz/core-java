@@ -4,6 +4,7 @@ class Hotel{
 	
 	public boolean foodName(String name){
 		boolean isAdded =false;
+		if (index<movies.length){
 		if(menu!= null){
 		menu[index]=name;
 		index ++;

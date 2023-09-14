@@ -1,20 +1,20 @@
-class CricketTeamExe{
-	public static void main(String[] team){
-	CricketTeam	cricket=new  CricketTeam();
-	
-	cricket.playerNames("Rohit Sharma (c)");
-	cricket.playerNames("Hardik Pandya (vc)");
-	cricket.playerNames("Shubman Gill");
-	cricket.playerNames("Virat Kohli");
-	cricket.playerNames("KL Rahul");
-	cricket.playerNames("Ravindra Jadeja");
-	cricket.playerNames("Shardul Thakur");
-	cricket.playerNames("Jasprit Bumrah");
-	cricket.playerNames("Mohammed Siraj");
-	cricket.playerNames("Kuldeep Yadav");
-	cricket.playerNames("Ishan Kishan");
-	
-	cricket.getDisplay();
-	
-	}
+class CricketExe{
+public static void main(String crics[]){
+
+CricketTeam cric= new CricketTeam();
+cric.addPlayerNames("Virat Kholi");
+cric.addPlayerNames("Rohit Dharma");
+cric.addPlayerNames("Hardik Pandya");
+cric.addPlayerNames("Jadeja");
+cric.addPlayerNames("Virat Kholi");
+cric.addPlayerNames("Chahal ");
+cric.addPlayerNames("Rahul");
+cric.addPlayerNames("Samson");
+cric.addPlayerNames("Sachin");
+cric.addPlayerNames("Sewag");
+cric.addPlayerNames("SRK");
+cric.addPlayerNames("Dravid");
+cric.addPlayerNames("SRK");
+cric.getPlayerName();
+}
 }
