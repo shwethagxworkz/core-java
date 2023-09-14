@@ -1,7 +1,0 @@
-
-class Facebook extends SocialMedia{
-
-
-}
-
-

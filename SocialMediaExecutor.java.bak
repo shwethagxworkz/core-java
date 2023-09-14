@@ -1,9 +1,0 @@
-class SocialMediaExecutor{
-
-
-public static void main(String facebook[]){
-Face book =new Facebook();
-book.login("1234uyt","shwetha@gmail.com");
-
-}
-}
