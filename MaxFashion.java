@@ -7,12 +7,12 @@ String location;
 int noOfWorkers;
 String[] categories;
 
-public MaxFashion(int iD, String[] brand , String loc , int workers , String[] categorys){
-	id = iD;
-	brands = brand;
-	location =loc;
-	noOfWorkers= workers;
-	categories = categorys;	
+public MaxFashion(int id, String[] brands , String locationa , int noOfWorkers , String[] categories){
+	this.id = id;
+	this.brands = brands;
+	this.location =location;
+	this.noOfWorkers= noOfWorkers;
+	this.categories = categories;	
 }
 
 public void sell(){
